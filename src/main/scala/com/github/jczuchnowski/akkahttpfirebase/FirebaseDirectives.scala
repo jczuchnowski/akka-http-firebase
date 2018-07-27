@@ -1,4 +1,4 @@
-package pl.jczuchnowski.akkahttpfirebase
+package com.github.jczuchnowski.akkahttpfirebase
 
 import akka.http.scaladsl.server.directives.{ AuthenticationDirective, Credentials }
 import akka.http.scaladsl.server.directives.Credentials.Provided

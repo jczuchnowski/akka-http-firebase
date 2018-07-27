@@ -1,4 +1,4 @@
-package pl.jczuchnowski.akkahttpfirebase
+package com.github.jczuchnowski.akkahttpfirebase
 
 import com.google.firebase.auth.{ FirebaseAuth, FirebaseToken }
 import com.google.api.core.{ ApiFuture, ApiFutures, ApiFutureCallback }
