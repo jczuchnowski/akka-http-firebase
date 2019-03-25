@@ -4,8 +4,8 @@ lazy val root = (project in file(".")).
   settings(
     inThisBuild(List(
       organization := "com.github.jczuchnowski",
-      scalaVersion := "2.12.6",
-      version      := "0.1.0-SNAPSHOT",
+      scalaVersion := "2.12.8",
+      version      := "0.1.1-SNAPSHOT",
       scalacOptions ++= Seq("-unchecked", "-deprecation", "-feature")
     )),
     name := "akka-http-firebase",
